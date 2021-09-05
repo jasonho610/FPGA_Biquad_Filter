@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1623063536" />
-    <testcase classname="test_biquad" file="/Users/jason/Desktop/FPGA/Verilog/biquad_iir_filter/test_biquad.py" lineno="14" name="test_biquad" ratio_time="10649302.966855375" sim_time_ns="105000.001" time="0.009859800338745117" />
-  </testsuite>
-</testsuites>
