@@ -225,7 +225,7 @@ diff_idx, diff, mae, mse = comp_arr(data_filt_nor, data_out_fpga)
 
 
 
-
+#----------------------testing by random number-----------------------
 #%%
 coef = np.random.randint(-32767, 32767, size=5, dtype=np.int16)
 #coef = np.array([1,2,1,2,2], dtype=np.int16)
@@ -284,7 +284,7 @@ comp_arr(data_out, data_fxp)
         
         
         
-        
+#----------------------you can apply k-filter-----------------------
 #%%
 def K_filter_fxp(data, fs):
     # apply K filtering as specified in EBU R-128 / ITU BS.1770-4
