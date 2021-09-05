@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1624292133" />
+    <testcase classname="test_top" file="/Users/jason/Desktop/FPGA/Verilog/Project/test_top.py" lineno="45" name="test_filtstate" ratio_time="110845.68518116325" sim_time_ns="1530360.001" time="13.806220769882202" />
+  </testsuite>
+</testsuites>
