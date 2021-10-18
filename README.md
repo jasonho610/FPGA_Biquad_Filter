@@ -5,4 +5,10 @@
 This project implements a biquad filter in FPGA with computer specifying filter coefficient and wav data by RS232.
 
 hierachy:
+![](https://i.imgur.com/xzSxVLn.png)
+
+biquad filter:
+![](https://i.imgur.com/hCas80C.png)
+
+design flow:
 ![](https://i.imgur.com/1zoeSB0.jpg)
